@@ -1,5 +1,6 @@
-name,grade
-jose,3
-kevin,2
-arturo,6
-julian,8
+name,year,carrer
+jose,2003,electrica
+kevin,2007,electronia
+arturo,2005,industrial
+julian,2009,catastral
+pedro,2008,NA
